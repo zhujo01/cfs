@@ -24,4 +24,4 @@ _testmain.go
 *.prof
 
 # intellij project file
-cfs.iml
+*.iml
