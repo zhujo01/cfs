@@ -25,3 +25,4 @@ _testmain.go
 
 # intellij project file
 *.iml
+.idea
